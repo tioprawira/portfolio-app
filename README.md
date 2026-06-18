@@ -1,6 +1,6 @@
-# Portfolio Website
+# Portofolio Website
 
-Website portfolio pribadi modern dan responsive yang dibuat menggunakan HTML, CSS, dan JavaScript. Project ini menampilkan profil, skill, pengalaman, pendidikan, serta project yang pernah dikerjakan.
+Website portofolio pribadi modern dan responsive yang dibuat menggunakan HTML, CSS, dan JavaScript. Project ini menampilkan profil, skill, pengalaman, pendidikan, serta project yang pernah dikerjakan.
 
 ## Preview
 
@@ -27,7 +27,7 @@ Website ini memiliki tampilan modern dengan desain clean dan responsive sehingga
 ## Struktur Folder
 
 ```bash
-portfolio/
+portofolio/
 │
 ├── index.html
 ├── css/
@@ -70,7 +70,7 @@ Anda dapat mengganti:
 * Nama dan foto profile
 * Data pengalaman kerja
 * Skill
-* Project portfolio
+* Project portofolio
 * Warna dan tampilan website
 * Link social media dan contact
 
@@ -78,7 +78,7 @@ Anda dapat mengganti:
 
 Website ini cocok digunakan untuk:
 
-* Personal Portfolio
+* Personal Portofolio
 * Freelancer
 * Web Developer
 * UI/UX Designer
